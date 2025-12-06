@@ -15,7 +15,16 @@ body {
     color: #f5eaff;
     text-shadow: 0 0 3px rgba(0,0,0,0.4);
 }
+.logo-tengah {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
 
+.logo-tengah img {
+    width: 150px;   /* ubah sesuai ukuran yang kamu mau */
+    height: auto;
+}
 /* ============================
    NAVBAR MODERN
    ============================ */
@@ -165,3 +174,4 @@ h1 {
     border: none;
     border-radius: 10px;
 }
+
